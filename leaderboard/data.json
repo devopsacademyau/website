@@ -1,0 +1,273 @@
+{
+  "id": "academy-199323a30e51bd61",
+  "authors": {
+    "CarineOliveira": {
+      "login": "CarineOliveira",
+      "url": "https://github.com/CarineOliveira",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/27916788?v=4"
+    },
+    "Faria-Marcio": {
+      "login": "Faria-Marcio",
+      "url": "https://github.com/Faria-Marcio",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/60304137?v=4"
+    },
+    "Henriqueediniz": {
+      "login": "Henriqueediniz",
+      "url": "https://github.com/Henriqueediniz",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/14355037?v=4"
+    },
+    "LuizFDS": {
+      "login": "LuizFDS",
+      "url": "https://github.com/LuizFDS",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/6718493?v=4"
+    },
+    "andreazzabr": {
+      "login": "andreazzabr",
+      "url": "https://github.com/andreazzabr",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/60391586?v=4"
+    },
+    "caiocezart": {
+      "login": "caiocezart",
+      "url": "https://github.com/caiocezart",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/16074774?v=4"
+    },
+    "christina-roperto": {
+      "login": "christina-roperto",
+      "url": "https://github.com/christina-roperto",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/22886026?v=4"
+    },
+    "deniseddi": {
+      "login": "deniseddi",
+      "url": "https://github.com/deniseddi",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/45111486?v=4"
+    },
+    "denstorti": {
+      "login": "denstorti",
+      "url": "https://github.com/denstorti",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/8410423?v=4"
+    },
+    "drii-cavalcanti": {
+      "login": "drii-cavalcanti",
+      "url": "https://github.com/drii-cavalcanti",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/20502108?v=4"
+    },
+    "gepifanio": {
+      "login": "gepifanio",
+      "url": "https://github.com/gepifanio",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/16002934?v=4"
+    },
+    "kikobr82": {
+      "login": "kikobr82",
+      "url": "https://github.com/kikobr82",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/25690780?v=4"
+    },
+    "lgothelipe": {
+      "login": "lgothelipe",
+      "url": "https://github.com/lgothelipe",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/57392406?v=4"
+    },
+    "maraujo00": {
+      "login": "maraujo00",
+      "url": "https://github.com/maraujo00",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/60331759?v=4"
+    },
+    "starkmatt": {
+      "login": "starkmatt",
+      "url": "https://github.com/starkmatt",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/48781706?v=4"
+    }
+  },
+  "charts": [
+    {
+      "title": "Merged Pull Requests",
+      "maxCount": 23,
+      "totalCount": 147,
+      "points": [
+        {
+          "author": "christina-roperto",
+          "count": 23
+        },
+        {
+          "author": "LuizFDS",
+          "count": 19
+        },
+        {
+          "author": "Faria-Marcio",
+          "count": 18
+        },
+        {
+          "author": "deniseddi",
+          "count": 17
+        },
+        {
+          "author": "lgothelipe",
+          "count": 17
+        },
+        {
+          "author": "andreazzabr",
+          "count": 11
+        },
+        {
+          "author": "Henriqueediniz",
+          "count": 7
+        },
+        {
+          "author": "drii-cavalcanti",
+          "count": 7
+        },
+        {
+          "author": "CarineOliveira",
+          "count": 6
+        },
+        {
+          "author": "caiocezart",
+          "count": 6
+        },
+        {
+          "author": "starkmatt",
+          "count": 6
+        },
+        {
+          "author": "denstorti",
+          "count": 4
+        },
+        {
+          "author": "maraujo00",
+          "count": 3
+        },
+        {
+          "author": "kikobr82",
+          "count": 2
+        },
+        {
+          "author": "gepifanio",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "title": "Merged or Open Pull Requests",
+      "maxCount": 23,
+      "totalCount": 163,
+      "points": [
+        {
+          "author": "christina-roperto",
+          "count": 23
+        },
+        {
+          "author": "Faria-Marcio",
+          "count": 19
+        },
+        {
+          "author": "LuizFDS",
+          "count": 19
+        },
+        {
+          "author": "lgothelipe",
+          "count": 19
+        },
+        {
+          "author": "deniseddi",
+          "count": 18
+        },
+        {
+          "author": "andreazzabr",
+          "count": 12
+        },
+        {
+          "author": "drii-cavalcanti",
+          "count": 11
+        },
+        {
+          "author": "starkmatt",
+          "count": 11
+        },
+        {
+          "author": "CarineOliveira",
+          "count": 7
+        },
+        {
+          "author": "Henriqueediniz",
+          "count": 7
+        },
+        {
+          "author": "caiocezart",
+          "count": 7
+        },
+        {
+          "author": "denstorti",
+          "count": 4
+        },
+        {
+          "author": "maraujo00",
+          "count": 3
+        },
+        {
+          "author": "kikobr82",
+          "count": 2
+        },
+        {
+          "author": "gepifanio",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "title": "Code Reviews",
+      "maxCount": 112,
+      "totalCount": 237,
+      "points": [
+        {
+          "author": "caiocezart",
+          "count": 112
+        },
+        {
+          "author": "denstorti",
+          "count": 62
+        },
+        {
+          "author": "kikobr82",
+          "count": 61
+        },
+        {
+          "author": "LuizFDS",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "title": "Code Review Comments",
+      "maxCount": 162,
+      "totalCount": 384,
+      "points": [
+        {
+          "author": "denstorti",
+          "count": 162
+        },
+        {
+          "author": "caiocezart",
+          "count": 142
+        },
+        {
+          "author": "kikobr82",
+          "count": 78
+        },
+        {
+          "author": "LuizFDS",
+          "count": 2
+        }
+      ]
+    }
+  ],
+  "botComments": 0,
+  "config": {
+    "labelGlob": "class*",
+    "botName": "golangcibot",
+    "createdAfter": "2020-02-01T00:00:00Z",
+    "repository": {
+      "name": "academy",
+      "owner": "devopsacademyau",
+      "url": "https://github.com/devopsacademyau/academy"
+    }
+  }
+}
